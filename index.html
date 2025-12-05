@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <title>AYTพาเที่ยว | ท่องเที่ยวอยุธยา</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+</head>
+<body>
+
+<header>
+  <h1>AYTพาเที่ยว</h1>
+  <p>เว็บไซต์แนะนำสถานที่ท่องเที่ยวจังหวัดพระนครศรีอยุธยา</p>
+</header>
+
+<section class="search">
+  <input type="text" id="search" placeholder="ค้นหาสถานที่...">
+</section>
+
+<main id="place-list" class="grid"></main>
+
+<section class="map-section">
+  <h2>แผนที่สถานที่ท่องเที่ยว</h2>
+  <div id="map"></div>
+</section>
+
+<footer>
+  <p>จัดทำเพื่อการศึกษา | AYTพาเที่ยว</p>
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

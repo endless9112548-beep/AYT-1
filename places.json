@@ -1,0 +1,30 @@
+[
+  {
+    "name": "วัดพระศรีสรรเพชญ์",
+    "detail": "วัดหลวงประจำราชสำนักในสมัยกรุงศรีอยุธยา",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Wat_Phra_Si_Sanphet.jpg",
+    "lat": 14.351,
+    "lng": 100.5683
+  },
+  {
+    "name": "วัดมหาธาตุ",
+    "detail": "มีเศียรพระพุทธรูปในรากไม้ที่มีชื่อเสียงระดับโลก",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Wat_Mahathat_Ayutthaya_Buddha_head.jpg",
+    "lat": 14.355,
+    "lng": 100.5674
+  },
+  {
+    "name": "ตลาดน้ำอโยธยา",
+    "detail": "แหล่งท่องเที่ยวเชิงวัฒนธรรม มีร้านอาหารและของฝาก",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Ayothaya_Floating_Market.jpg",
+    "lat": 14.3555,
+    "lng": 100.5636
+  },
+  {
+    "name": "พิพิธภัณฑสถานแห่งชาติ เจ้าสามพระยา",
+    "detail": "แหล่งเรียนรู้โบราณวัตถุสมัยอยุธยา",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Chao_Sam_Phraya_National_Museum.jpg",
+    "lat": 14.3527,
+    "lng": 100.5695
+  }
+]
